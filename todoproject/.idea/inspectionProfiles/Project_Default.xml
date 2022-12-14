@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="gtts.gTTS" />
+          <option value="pyqrcode.create.Png" />
+          <option value="pyqrcode.create.png" />
+          <option value="travelapp.views.HttpResponse" />
+          <option value="travelproject.urls.include" />
+          <option value="moviesapp.views.movie" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
